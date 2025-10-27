@@ -102,7 +102,3 @@ A comprehensive mod menu for Dead Frontier 1 with various enhancements for playe
 
 These mods are created for personal use. 
 
-## Credits
-
-Created by Glockoma
-
