@@ -55,13 +55,13 @@ A comprehensive mod menu for Dead Frontier 1 with various enhancements for playe
 ## Installation
 
 1. **Download MelonLoader**
-   - Visit the official MelonLoader website and download the installer.
+   - Visit the official [MelonLoader](https://melonwiki.xyz/#/) website and download the installer.
 
 2. **Install MelonLoader**
-   - Run the installer. If MelonLoader does not detect Dead Frontier 1, use the "Add Game Manually" option.
+   - Run the installer as administrator. If MelonLoader does not detect Dead Frontier 1, use the "Add Game Manually" option.
 
 3. **Locate Dead Frontier 1**
-   - Browse to the Dead Frontier 1 executable and select it. MelonLoader will patch the game and create a `Mods` folder in the directory.
+   - Browse to the DeadFrontier.exe (This should be in  C:/Program Files (x86)/Dead Frontier/DeadFrontier.exe) and select it. MelonLoader will patch the game and create a `Mods` folder in the directory.
 
 4. **Place Mods in Folder**
    - Download the provided `.dll` file for these mods. Copy it into the `Mods` folder that MelonLoader created.
